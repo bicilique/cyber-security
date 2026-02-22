@@ -416,3 +416,5 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+exercise/.DS_Store
+exercise/cyberdefenders/.DS_Store
